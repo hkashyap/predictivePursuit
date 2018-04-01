@@ -5,7 +5,7 @@ The code is tested using Matlab 2017a. If you use any part of this code in your 
 
 Files:
 
-main_sp_predict.m (main script to run either the prediction and the initiation experiemnts)
+main_sp_predict.m (main script to run the prediction and the initiation experiemnts)
 
 sp_predict_ramp_pertur.m (script to run the experiment with perturbation and phase shift)
 
@@ -15,4 +15,4 @@ get_RS.m (plots retinal slip)
 
 getWeights.m (RNN synapse weights)
 
-Copyright (c) Hirak J Kashyap, 2018
+Copyright (c) Hirak J Kashyap
