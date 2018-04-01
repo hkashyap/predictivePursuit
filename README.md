@@ -14,3 +14,5 @@ get_accelaration.m (Calculates pursuit accelaration during initiation)
 get_RS.m (plots retinal slip)
 
 getWeights.m (RNN synapse weights)
+
+Copyright (c) Hirak J Kashyap, 2018
