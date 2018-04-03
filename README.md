@@ -7,7 +7,9 @@ Files:
 
 main_sp_predict.m (main script to run the prediction and the initiation experiemnts)
 
-sp_predict_ramp_pertur.m (script to run the experiment with perturbation and phase shift)
+sp_predict_ramp_pertur.m (script to run the predictive pursuit experiment with perturbation and phase shift)
+
+sp_predict_random_target.m (script to run the predictive pursuit experiemnt for a random target)
 
 get_accelaration.m (Calculates pursuit accelaration during initiation)
 
