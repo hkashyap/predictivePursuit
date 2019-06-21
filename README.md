@@ -1,11 +1,11 @@
 # predictivePursuit
 Code accompanying the IJCNN 2018 paper:
 
-Kashyap, H. J., Detorakis, G., Dutt, N., Krichmar, J. L., & Neftci, E. (2018, July). A Recurrent Neural Network Based Model of Predictive Smooth Pursuit Eye Movement in Primates. In 2018 International Joint Conference on Neural Networks (IJCNN.
+Kashyap, H. J., Detorakis, G., Dutt, N., Krichmar, J. L., & Neftci, E. (2018). A Recurrent Neural Network Based Model of Predictive Smooth Pursuit Eye Movement in Primates. In 2018 International Joint Conference on Neural Networks (IJCNN).
 
 http://www.socsci.uci.edu/~jkrichma/Kashyap-PredicitvePursuit-IJCNN2018.pdf
 
-The code is tested using Matlab 2017a. If you use this code in your research, please cite our IJCNN paper.
+The code is tested using Matlab 2017a. If you use this code in your research, please cite the above paper.
 
 Files:
 
