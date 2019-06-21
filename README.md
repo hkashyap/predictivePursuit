@@ -5,7 +5,7 @@ Kashyap, H. J., Detorakis, G., Dutt, N., Krichmar, J. L., & Neftci, E. (2018, Ju
 
 http://www.socsci.uci.edu/~jkrichma/Kashyap-PredicitvePursuit-IJCNN2018.pdf
 
-The code is tested using Matlab 2017a. If you use any part of this code in your research, please cite our IJCNN paper.
+The code is tested using Matlab 2017a. If you use this code in your research, please cite our IJCNN paper.
 
 Files:
 
